@@ -21,7 +21,7 @@ vi  READEME.md
 ```bash
 git add READEME.md
 git commit -m "your message (ex. first commit ...)"
-git push master origin
+git push origin master
 ```
 Please check if READEME.md haschanged form web site !!
 
