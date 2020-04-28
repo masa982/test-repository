@@ -1,3 +1,3 @@
 # -*- coding: utf-8 -*-
 
-print "Hello there!!"
+print "Hello there!!\nThis is test program!!"
