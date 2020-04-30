@@ -33,5 +33,5 @@ Please check if READEME.md haschanged form web site !!
  
 masa982
 
-SokiGoto
+SokiGoto!
 
